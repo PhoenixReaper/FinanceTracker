@@ -1,0 +1,3 @@
+# Ignore Node.js modules directories globally in this workspace
+**/node_modules/
+node_modules/
