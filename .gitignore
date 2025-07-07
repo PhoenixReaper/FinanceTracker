@@ -1,3 +1,9 @@
 # Ignore Node.js modules directories globally in this workspace
 **/node_modules/
 node_modules/
+
+# Ignore other common build outputs or environment files
+*.log
+.env
+dist/
+build/
